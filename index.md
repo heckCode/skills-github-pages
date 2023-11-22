@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Title: The most awesome blog on the planet
 ---
 
